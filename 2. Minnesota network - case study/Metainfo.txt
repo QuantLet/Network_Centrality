@@ -1,0 +1,15 @@
+
+Name of Quantlet: Network Centrality - Minnesota road network
+
+Published in: Network Centrality - Minnesota road network
+
+Description: The Minnesota road network is a classic spatial graph benchmark (2,642 nodes, 3,303 edges). Each node is an intersection and each edge is a road segment. We download the adjacency data from the SuiteSparse Matrix Collection and apply centrality measures to identify the most critical intersections.
+
+Keywords: Graph centrality, Road network
+
+Author: Owen Chaffard
+
+Submitted:  13.04.2026
+
+Datafile: data/minnesota/minnesota.mtx
+
