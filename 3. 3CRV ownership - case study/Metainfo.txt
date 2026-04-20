@@ -1,0 +1,14 @@
+
+Name of Quantlet: Network Centrality - 3CRV ownership graph
+
+Published in: Network Centrality - 3CRV ownership graph
+
+Description: The 3CRV token is the liqudity provider token for curve finance's 3pool, the main stablecoin liquidity pool on ETH. Through centrality analysis of the ownership graph, classifying addresses between EOAs and Smart Contracts, we highlight the role of smart contracts as essential plumbing for DeFi.
+Keywords: Graph centrality, DeFi, 3pool
+
+Author: Owen Chaffard
+
+Submitted:  20.04.2026
+
+Datafile: data/Curve/3CRV_lpevents.parquet,data/Curve/curve_3pool_hourly.parquet,data/Curve/address_book.json
+
